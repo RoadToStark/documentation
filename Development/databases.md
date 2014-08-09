@@ -19,3 +19,21 @@ Métriques
 - **duration** : Durée de la requête
 - **complete** : boolean
 - **error** : Si erreur le message est stocké
+
+Users
+---------
+
+### User ###
+
+*Stockage des informations sur les utilisateurs*
+
+- **username** 
+- **email** 
+- **firstName** 
+- **lastName** 
+- **cover** : cover picture link
+- **addrs** : Array ["192.168.1.2", "193.178.1.45"]
+- **apis** : Object with parameters for user's APIs, to complete
+
+
+*Uncomplete*
